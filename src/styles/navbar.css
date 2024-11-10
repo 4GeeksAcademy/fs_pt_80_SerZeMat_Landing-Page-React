@@ -1,0 +1,14 @@
+.navbar-brand {
+    color: white;
+}
+.nav-link {
+    color:white;
+    text-align: left;
+}
+.navbar__title {
+    color: grey;
+    text-align: left;
+}
+.navbar__icon {
+    background-size: grey;
+}
